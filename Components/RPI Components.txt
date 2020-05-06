@@ -1,0 +1,36 @@
+LIST OF COMPONENTS and source
+
+
+ALL CAPACITORS ARE 1206  SMD
+ALL RESISTORS ARE 1206 SMD
+
+41x tactile switch  (SPST-NO, 6mm x 6mm x 5mm, ex. EVP-ASKC1A)
+1x buzzer (SMD, 9.6mm x 9.6mm, 2-5V, ex. CMI-9653S-SMT-TR)
+
+
+nRF24L01 2.4 Ghz TRX
+https://fr.aliexpress.com/item/Free-Shipping-SMD-NRF24L01-1100-meter-long-distance-NRF24L01-PA-LNA-SMD-wireless-modules-1100meters-in/32255233251.html?spm=a2g0w.10010108.1000016.1.41892b28whEJXL&isOrigTitle=true
+
+Digital Microphone SPH0645LM4H-B-SPH0645LM4H-I2S
+https://fr.aliexpress.com/item/10pcs-100-new-and-orginal-SPH0645LM4H-B-SPH0645LM4H-I2S-Output-Digital-Microphone-in-stock/32953665215.html?spm=a2g0w.10010108.1000016.1.4c1839097uZ2BZ&isOrigTitle=true
+
+RPI CONNECTOR 2x20 P 40 broches 2.54mm SMT
+https://fr.aliexpress.com/item/10pcs-2x20-P-40-pin-2-54-mm-SMT-Pin-Header-Male-dual-row-surface-mount/32724713249.html?spm=a2g0s.9042311.0.0.27426c37NUKcSI
+
+TP4056 USB CHarger
+https://fr.aliexpress.com/item/5-pcs-Micro-USB-5V-1A-18650-TP4056-Lithium-Battery-Charger-Module-Charging-Board-With-Protection/32797834680.html?spm=a2g0w.10010108.1000016.1.203d4a42vznc7u&isOrigTitle=true
+
+2.8 TFT Display ILI9341
+https://fr.aliexpress.com/item/2-4-2-8-3-2-inch-SPI-TFT-LCD-color-screen-ILI9341-driver-IC-4/32861524235.html?spm=a2g0w.10010108.1000016.1.4159720fkol3TN&isOrigTitle=true
+
+TCA8418 I2C Keyboard driver
+https://fr.aliexpress.com/item/10pcs-TCA8418-TCA8418RTWR-PZ418-QFN-24-Chipset/32896916454.html?spm=a2g0w.10010108.1000016.1.918635efxazxp0&isOrigTitle=true
+
+SMD CAPACITOR
+https://fr.aliexpress.com/item/10values-200pcs-SMD-Electrolytic-capacitor-assorted-kit-10V-50V-1uF-470uF-with-storage-box/32717894987.html?spm=a2g0w.10010108.1000016.1.3029658dm2tpgM&isOrigTitle=true
+
+SILICON BUTTONS
+https://fr.aliexpress.com/item/Free-shipping-50pcs-lot-6-6-5-SMD-Silent-buttons-The-silicone-keypad-6x6x5mm-best-quality/32820232659.html?spm=a2g0w.10010108.1000016.1.66ba49e7qBfE7W&isOrigTitle=true
+
+Buzzer
+https://fr.aliexpress.com/item/10pcs-lot-3V-5V-ultra-small-SMD-active-patch-buzzer-9-6mm-9-6mm-5mm-square/32783296014.html?spm=a2g0w.10010108.1000016.1.9eda1503IdGyiu&isOrigTitle=true
